@@ -20,12 +20,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niixxks/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
 ## Greedy
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niixxks/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
 ## Sorting
 |  |
 | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niixxks/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
+## Two Pointers
+|  |
+| ------- |
+| [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
 <!---LeetCode Topics End-->

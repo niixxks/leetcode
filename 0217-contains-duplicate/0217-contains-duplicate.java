@@ -5,7 +5,7 @@ class Solution {
         int count = 0;
         for (int i = 1; i < nums.length; i++) {
         if (nums[i] == nums[i - 1]) {
-           return true; // Found a duplicate
+           return true; 
            }
         }
         return false;

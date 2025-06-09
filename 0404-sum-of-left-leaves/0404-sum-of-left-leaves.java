@@ -14,24 +14,20 @@
  * }
  */
 class Solution {
-    public int solve(TreeNode root) {
-        if (root == null) return 0;
+    int ans = 0;
+    public void solve ( TreeNode root){
+        if ( root == null ) return ;
 
-        int sum = 0;
-
-        // Check if the left child is a left leaf
-        if (root.left != null && root.left.left == null && root.left.right == null) {
-            sum += root.left.val;
+        if ( root.left != null){
+            if( root.left.left == null && root.left.right == null){
+                ans += root.left.val;
+            }
         }
-
-        // Recursively check left and right subtrees
-        sum += solve(root.left);
-        sum += solve(root.right);
-
-        return sum;
+        solve(root.left);
+        solve(root.right);
     }
-
     public int sumOfLeftLeaves(TreeNode root) {
-        return solve(root);
+        solve(root);
+        return ans;
     }
 }

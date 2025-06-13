@@ -14,17 +14,17 @@
  * }
  */
 class Solution {
-    ArrayList<Integer> ans = new ArrayList<>();
-    public void inorder_traversal( TreeNode root){
-        
-        if (root == null) return ;
-        ans.add(root.val);
-        inorder_traversal (root.left);
-        inorder_traversal(root.right);
-    }
+    PriorityQueue<Integer> pq = new PriorityQueue<>(Collections.reverseOrder());
     public int kthSmallest(TreeNode root, int k) {
-       inorder_traversal(root);
-       Collections.sort(ans);
-        return ans.get(k-1);
+        solve(root,k);
+     
+        return pq.poll();
+    }
+    public void solve(TreeNode root, int k){
+        if(root==null) return;
+        solve(root.left,k);
+        pq.offer(root.val);
+        if(pq.size()>k) pq.poll();
+        solve(root.right,k);
     }
 }

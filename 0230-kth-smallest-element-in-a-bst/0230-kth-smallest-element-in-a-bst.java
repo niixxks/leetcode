@@ -9,20 +9,22 @@
  *     TreeNode(int val, TreeNode left, TreeNode right) {
  *         this.val = val;
  *         this.left = left;
- *         this.right = right;
+ *         this.right = right;f
  *     }
  * }
  */
 class Solution {
     ArrayList<Integer> ans = new ArrayList<>();
-    public void solve( TreeNode root){
+    public void inorder_traversal( TreeNode root){
+        
         if (root == null) return ;
-        solve (root.left);
         ans.add(root.val);
-        solve(root.right);
+        inorder_traversal (root.left);
+        inorder_traversal(root.right);
     }
     public int kthSmallest(TreeNode root, int k) {
-       solve(root);
+       inorder_traversal(root);
+       Collections.sort(ans);
         return ans.get(k-1);
     }
 }

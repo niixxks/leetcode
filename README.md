@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niixxks/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
+| [1036-rotting-oranges](https://github.com/niixxks/leetcode/tree/master/1036-rotting-oranges) |
 ## Greedy
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/niixxks/leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/niixxks/leetcode/tree/master/0200-number-of-islands) |
 | [0404-sum-of-left-leaves](https://github.com/niixxks/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [1036-rotting-oranges](https://github.com/niixxks/leetcode/tree/master/1036-rotting-oranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -126,4 +128,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/niixxks/leetcode/tree/master/0200-number-of-islands) |
+| [1036-rotting-oranges](https://github.com/niixxks/leetcode/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->

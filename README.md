@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/niixxks/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/niixxks/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niixxks/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/niixxks/leetcode/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
 | [1036-rotting-oranges](https://github.com/niixxks/leetcode/tree/master/1036-rotting-oranges) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/niixxks/leetcode/tree/master/0948-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->

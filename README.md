@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/niixxks/leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
 | [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/niixxks/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0948-sort-an-array](https://github.com/niixxks/leetcode/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/niixxks/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1036-rotting-oranges](https://github.com/niixxks/leetcode/tree/master/1036-rotting-oranges) |
 ## Greedy
 |  |
@@ -165,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/niixxks/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->

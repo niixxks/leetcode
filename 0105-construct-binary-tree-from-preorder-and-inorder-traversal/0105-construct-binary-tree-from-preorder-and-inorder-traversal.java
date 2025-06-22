@@ -25,9 +25,9 @@ class Solution {
         while (inorder[inRoot] != preorder[pstart]) {
             inRoot++;
         }
-        int numsLeft = inRoot - istart;
-        root.left = build(preorder, inorder, pstart + 1, pstart + numsLeft, istart, inRoot - 1);
-        root.right = build(preorder, inorder, pstart + numsLeft + 1, pend, inRoot + 1, iend);
+        int nums = inRoot - istart;
+        root.left = build(preorder, inorder, pstart + 1, pstart + nums, istart, inRoot - 1);
+        root.right = build(preorder, inorder, pstart + nums + 1, pend, inRoot + 1, iend);
         return root;
     }
 }

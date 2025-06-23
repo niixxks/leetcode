@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/niixxks/leetcode/tree/master/0013-roman-to-integer) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/niixxks/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 ## Array
 |  |
 | ------- |
@@ -192,4 +193,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/niixxks/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+## Simulation
+|  |
+| ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/niixxks/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 <!---LeetCode Topics End-->

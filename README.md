@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/niixxks/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/niixxks/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/niixxks/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/niixxks/leetcode/tree/master/0070-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/niixxks/leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niixxks/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niixxks/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/niixxks/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niixxks/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/niixxks/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

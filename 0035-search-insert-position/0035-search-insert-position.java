@@ -11,8 +11,8 @@ class Solution {
                  high = mid - 1;
              }
              else{
-               
-              indexoftarget = low=mid + 1 ;
+                low=mid + 1;
+              indexoftarget = low ;
              }
         }
         return indexoftarget;    

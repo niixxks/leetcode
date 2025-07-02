@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/niixxks/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/niixxks/leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/niixxks/leetcode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/niixxks/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niixxks/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/niixxks/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niixxks/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/niixxks/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/niixxks/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niixxks/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/niixxks/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/niixxks/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/niixxks/leetcode/tree/master/0455-assign-cookies) |
 | [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/niixxks/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |

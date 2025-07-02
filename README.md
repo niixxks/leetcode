@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/niixxks/leetcode/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/niixxks/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/niixxks/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/niixxks/leetcode/tree/master/1036-rotting-oranges) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/niixxks/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Greedy
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/niixxks/leetcode/tree/master/0455-assign-cookies) |
 | [0948-sort-an-array](https://github.com/niixxks/leetcode/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/niixxks/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/niixxks/leetcode/tree/master/0088-merge-sorted-array) |
 | [0455-assign-cookies](https://github.com/niixxks/leetcode/tree/master/0455-assign-cookies) |
 | [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
+| [1019-squares-of-a-sorted-array](https://github.com/niixxks/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/niixxks/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Dynamic Programming
 |  |

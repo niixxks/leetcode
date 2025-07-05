@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/niixxks/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/niixxks/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/niixxks/leetcode/tree/master/0070-climbing-stairs) |
+| [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/niixxks/leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/niixxks/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niixxks/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/niixxks/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 ## String
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/niixxks/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/niixxks/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/niixxks/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niixxks/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/niixxks/leetcode/tree/master/0455-assign-cookies) |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/niixxks/leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/niixxks/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niixxks/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/niixxks/leetcode/tree/master/0455-assign-cookies) |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/niixxks/leetcode/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niixxks/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/niixxks/leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
 ## Union Find
 |  |
 | ------- |
@@ -247,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/niixxks/leetcode/tree/master/1013-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->

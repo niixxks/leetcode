@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/niixxks/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/niixxks/leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niixxks/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0169-majority-element](https://github.com/niixxks/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/niixxks/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/niixxks/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/niixxks/leetcode/tree/master/0135-candy) |
+| [0169-majority-element](https://github.com/niixxks/leetcode/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/niixxks/leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/niixxks/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/niixxks/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/niixxks/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/niixxks/leetcode/tree/master/0435-non-overlapping-intervals) |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niixxks/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/niixxks/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/niixxks/leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/niixxks/leetcode/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/niixxks/leetcode/tree/master/0169-majority-element) |
 | [0948-sort-an-array](https://github.com/niixxks/leetcode/tree/master/0948-sort-an-array) |
 ## Prefix Sum
 |  |

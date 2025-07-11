@@ -15,7 +15,7 @@
  */
 class Solution {
     int ans = 0;
-    public void solve ( TreeNode root){
+    public void traverse ( TreeNode root){
         if ( root == null ) return ;
 
         if ( root.left != null){
@@ -23,11 +23,11 @@ class Solution {
                 ans += root.left.val;
             }
         }
-        solve(root.left);
-        solve(root.right);
+        traverse(root.left);
+        traverse(root.right);
     }
     public int sumOfLeftLeaves(TreeNode root) {
-        solve(root);
+        traverse(root);
         return ans;
     }
 }

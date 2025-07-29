@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1016-subarray-sums-divisible-by-k](https://github.com/niixxks/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1019-squares-of-a-sorted-array](https://github.com/niixxks/leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/niixxks/leetcode/tree/master/1036-rotting-oranges) |
+| [2316-count-hills-and-valleys-in-an-array](https://github.com/niixxks/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/niixxks/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 ## Greedy
 |  |

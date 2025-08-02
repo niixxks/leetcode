@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/niixxks/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [2689-rearranging-fruits](https://github.com/niixxks/leetcode/tree/master/2689-rearranging-fruits) |
 ## String
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/niixxks/leetcode/tree/master/1036-rotting-oranges) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/niixxks/leetcode/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/niixxks/leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2689-rearranging-fruits](https://github.com/niixxks/leetcode/tree/master/2689-rearranging-fruits) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niixxks/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/niixxks/leetcode/tree/master/0455-assign-cookies) |
 | [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
+| [2689-rearranging-fruits](https://github.com/niixxks/leetcode/tree/master/2689-rearranging-fruits) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/niixxks/leetcode/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/niixxks/leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2689-rearranging-fruits](https://github.com/niixxks/leetcode/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
 |  |
 | ------- |

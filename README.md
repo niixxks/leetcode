@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/niixxks/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/niixxks/leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
+| [0900-reordered-power-of-2](https://github.com/niixxks/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/niixxks/leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/niixxks/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/niixxks/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0900-reordered-power-of-2](https://github.com/niixxks/leetcode/tree/master/0900-reordered-power-of-2) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/niixxks/leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2689-rearranging-fruits](https://github.com/niixxks/leetcode/tree/master/2689-rearranging-fruits) |
 ## String
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/niixxks/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/niixxks/leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/niixxks/leetcode/tree/master/0455-assign-cookies) |
+| [0900-reordered-power-of-2](https://github.com/niixxks/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/niixxks/leetcode/tree/master/0948-sort-an-array) |
 | [0985-bag-of-tokens](https://github.com/niixxks/leetcode/tree/master/0985-bag-of-tokens) |
 | [1019-squares-of-a-sorted-array](https://github.com/niixxks/leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/niixxks/leetcode/tree/master/0169-majority-element) |
+| [0900-reordered-power-of-2](https://github.com/niixxks/leetcode/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/niixxks/leetcode/tree/master/0948-sort-an-array) |
 ## Prefix Sum
 |  |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/niixxks/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/niixxks/leetcode/tree/master/0268-missing-number) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/niixxks/leetcode/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->

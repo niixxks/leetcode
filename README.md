@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/niixxks/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/niixxks/leetcode/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/niixxks/leetcode/tree/master/0040-combination-sum-ii) |
 | [0066-plus-one](https://github.com/niixxks/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/niixxks/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/niixxks/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/niixxks/leetcode/tree/master/0900-reordered-power-of-2) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/niixxks/leetcode/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
